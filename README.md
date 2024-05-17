@@ -1,12 +1,6 @@
 ## Testing Evermos API performance
-![Static Badge](https://img.shields.io/badge/testing-API_testing-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/testing-API_testing-blue?style=flat) ![Static Badge](https://img.shields.io/badge/tools-Postman-orange?style=flat) ![Static Badge](https://img.shields.io/badge/tools-K6-Green?style=flat) [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-![Static Badge](https://img.shields.io/badge/tools-Postman-orange?style=flat)
-
-![Static Badge](https://img.shields.io/badge/tools-K6-Green?style=flat)
-
-
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 During my four-week internship at Evermos, I had the opportunity to work on an API performance analysis project. This project was designed to analyze the speed and stability of the API. I utilized Postman to design and execute API tests, and K6 to conduct load and stress testing. These tests measured key metrics such as API response time, throughput, and CPU usage. The project demonstrated that meticulous API performance testing can significantly contribute to improving the performance and stability of the system. This experience also provided me with valuable knowledge and skills in API testing and software development
 
